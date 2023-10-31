@@ -1,0 +1,4 @@
+/storage/work/s/spl5745/Mo_Hf/dfttk/C15/1/1_Laves_C15.POSCAR: {tag: f9800969-69ec-43b7-b090-f2ce2b1c616c}
+/storage/work/s/spl5745/Mo_Hf/dfttk/C15/2/2_Laves_C15.POSCAR: {tag: 4e61ed95-b9c9-4595-baf6-932d0b95c6cb}
+/storage/work/s/spl5745/Mo_Hf/dfttk/C15/3/3_Laves_C15.POSCAR: {tag: 5514090c-1500-4efe-886b-e87f12e7a42b}
+/storage/work/s/spl5745/Mo_Hf/dfttk/C15/4/4_Laves_C15.POSCAR: {tag: 85b52a57-7ef0-4645-a6f6-d10161d458bd}
