@@ -11,8 +11,7 @@
           "wijmo.gc-excelviewer",
           "mechatroner.vscode_rainbow_csv",
           "ms-python.python",
-          "ms-toolsai.jupyter",
-          "hansvn.instant-mongo"
+          "ms-toolsai.jupyter"
         ]
       }
     },
