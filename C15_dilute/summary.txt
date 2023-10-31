@@ -1,0 +1,8 @@
+('Hf Mo', 'Hf')1
+('Hf Mo', 'Mo')2
+('Mo Hf', 'Hf')3
+('Mo Hf', 'Mo')4
+('Hf', 'Hf Mo')5
+('Mo', 'Hf Mo')6
+('Hf', 'Mo Hf')7
+('Mo', 'Mo Hf')8

@@ -1,0 +1,18 @@
+system:
+  phase_models: HF_MO_input.json
+  datasets: input_data
+output:
+  output_db:  mcmc_3.tdb
+  verbosity:  2
+  tracefile:  trace.npy
+  probfile:   prob.npy
+  logfile:    null
+mcmc:
+  iterations: 5
+  scheduler: None
+  input_db: dft.tdb
+  chains_per_parameter: 2
+  data_weights:
+    ZPF: 80.0
+    HM: 0.1
+  approximate_equilibrium: True
