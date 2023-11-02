@@ -1,0 +1,55 @@
+{
+ "components": [
+  "HF",
+  "MO",
+  "VA"
+ ],
+ "phases": [
+  "HCP_A3"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1,
+   0.5
+  ],
+  "sublattice_occupancies": [
+   [
+    [1
+    ],
+    1
+   ],
+   [
+    [1
+    ],
+    1
+   ]
+  ],
+  "sublattice_configurations": [
+ [
+    ["HF"
+    ],
+    "VA"
+   ],
+   [
+    ["MO"
+    ],
+    "VA"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    0.0,
+    45662.556
+   ]
+  ]
+ ],
+ "reference": "Endmembers_DFTTK"
+}

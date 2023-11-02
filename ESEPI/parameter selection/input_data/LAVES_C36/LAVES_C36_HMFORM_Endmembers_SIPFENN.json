@@ -1,0 +1,41 @@
+{
+ "components": [
+  "HF",
+  "MO"
+ ],
+ "phases": [
+  "LAVES_C36"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2,
+   2,
+   2,
+   3,
+   3
+  ],
+  "sublattice_configurations": [
+   [
+    "HF",
+    "HF",
+    "MO",
+    "MO",
+    "MO"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -8871.913162
+   ]
+  ]
+ ],
+ "reference": "Endmembers_SIPFEEN"
+}

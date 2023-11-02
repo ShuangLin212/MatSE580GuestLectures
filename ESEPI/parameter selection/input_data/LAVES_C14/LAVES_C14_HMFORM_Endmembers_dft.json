@@ -1,0 +1,79 @@
+{
+ "components": [
+  "HF",
+  "MO"
+ ],
+ "phases": [
+  "LAVES_C14"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2,
+   1,
+   3
+  ],
+  "sublattice_configurations": [
+   [
+    "HF",
+    "HF",
+    "HF"
+   ],
+   [
+    "HF",
+    "HF",
+    "MO"
+   ],
+   [
+    "HF",
+    "MO",
+    "HF"
+   ],
+   [
+    "HF",
+    "MO",
+    "MO"
+   ],
+   [
+    "MO",
+    "HF",
+    "HF"
+   ],
+   [
+    "MO",
+    "HF",
+    "MO"
+   ],
+   [
+    "MO",
+    "MO",
+    "HF"
+   ],
+   [
+    "MO",
+    "MO",
+    "MO"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    31990.78695833331,
+    -2030.3314583334234,
+    15310.70942499999,
+    -8528.19621666673,
+    63595.60991666671,
+    49012.60344999998,
+    44761.37080833331,
+    45617.72843333328
+   ]
+  ]
+ ],
+ "reference": "Endmembers_dft"
+}

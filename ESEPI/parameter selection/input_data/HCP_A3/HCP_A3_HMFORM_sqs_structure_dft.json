@@ -1,0 +1,78 @@
+{
+ "components": [
+  "HF",
+  "MO",
+  "VA"
+ ],
+ "phases": [
+  "HCP_A3"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1,
+   0.5
+  ],
+  "sublattice_occupancies": [
+   [
+    [
+     0.75,
+     0.25
+    ],
+    1
+   ],
+   [
+    [
+     0.25,
+     0.75
+    ],
+    1
+   ],
+   [
+    [
+     0.5,
+     0.5
+    ],
+    1
+   ]
+  ],
+  "sublattice_configurations": [
+   [
+    [
+     "HF",
+     "MO"
+    ],
+    "VA"
+   ],
+   [
+    [
+     "HF",
+     "MO"
+    ],
+    "VA"
+   ],
+   [
+    [
+     "HF",
+     "MO"
+    ],
+    "VA"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    2277.1875999999997,
+    2535.3010249999998,
+    5928.1658125000195
+   ]
+  ]
+ ],
+ "reference": "sqs_dft"
+}

@@ -10,9 +10,9 @@ output:
 mcmc:
   iterations: 5
   scheduler: None
-  input_db: dft.tdb
+  input_db: mcmc_2.tdb
   chains_per_parameter: 2
   data_weights:
     ZPF: 80.0
-    HM: 0.1
+    HM: 20.0
   approximate_equilibrium: True
