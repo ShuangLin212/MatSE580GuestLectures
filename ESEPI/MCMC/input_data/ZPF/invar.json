@@ -1,0 +1,13 @@
+{
+  "comment": "3 phases eq",
+  "reference": "null",
+  "phases": ["BCC_A2","HCP_A3", "LIQUID", "LAVES_C15", "LAVES_C36"],
+  "values": [[["LAVES_C36", ["HF"], [0.338855]], ["BCC_A2", ["HF"], [0.225570]], ["LIQUID", ["HF"], [0.436606]]], 
+  			[["BCC_A2", ["HF"], [0.756380]], ["HCP_A3", ["HF"], [0.982193]], ["LAVES_C15", ["HF"], [0.356662]]], 
+  			[["BCC_A2", ["HF"], [0.534357]], ["LAVES_C36", ["HF"], [0.364619]], ["LIQUID", ["HF"], [0.606344]]]],
+  "components": ["HF", "MO","VA"],
+  "output": "ZPF",
+  "tags":"inv",
+  "broadcast_conditions": false,
+  "conditions": {"P": 101325, "T": [2420.6, 1453.9, 2164.5]}
+}
