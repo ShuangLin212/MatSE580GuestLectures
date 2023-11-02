@@ -9,3 +9,4 @@ Automation of thermodynamic modeling with application to Hf-Mo system. All work 
 - [Demo of getting data from BCC SQS](C15_dilute/SIP_JSON_HF_MO_C15.ipynb) - to generate SQS structures ESPEI input json file.
 - [Parameter selection](<ESEPI/parameter selection/ESPEI Parameter Selection_Hf_Mo.ipynb>) - to generate DFT+Machine learning phase diagram.
 - [MCMC](<ESEPI/parameter selection/ESPEI Parameter Selection_Hf_Mo.ipynb>) - to optimize the phase diagram.
+- [Demo of binary ploting](new_binaryplot.ipynb) - demostrate the 9 element multi-component system (Cr-Hf-Mo-Nb-Ta-Ti-V-W-Zr) phase diagram calcuation using Pycalphad.
