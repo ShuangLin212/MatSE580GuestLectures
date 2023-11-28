@@ -1,0 +1,11 @@
+system:
+  phase_models: HF_MO_TI_input.json
+  datasets: input_data
+
+output:
+  verbosity: 1
+  output_db: dft1.tdb
+
+generate_parameters:
+  excess_model: linear
+  ref_state: SGTE91
