@@ -2,7 +2,7 @@
 
 Automation of thermodynamic modeling with application to Hf-Mo system. All work is distributed across XXX Jupyter notebooks:
 
-- [Demo of Phase Name database](Phase_name_database/phase-name-demo.ipynb) - to show the structure information.
+- [Demo of Phase Name database](ShuangLin212/MatSE580GuestLectures/Thermodynamic_modelling_Hf_Mo/Phase_name_database/phase-name-demo.ipynb) - to show the structure information.
 - [Structures builder function](Structure_builder/Structure_builder.ipynb>) - to genrate the endmembers, dilute and SQS.
 - [Demo of getting data from dfttk MongoDB](C15_dfttk/LAVES_C15_HMFORM_Endmembers_DFTTK.json) - to generate DFT ESPEI input json file.
 - [Demo of getting data from dilute strcuture](C15_dilute/SIP_JSON_HF_MO_C15.ipynb) - to generate dilute structures ESPEI input json file.
